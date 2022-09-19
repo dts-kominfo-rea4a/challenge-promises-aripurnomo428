@@ -13,3 +13,4 @@ describe("promiseOutput test", () => {
     expect(await promiseOutput("marah")).toBe(4);
   });
 });
+
